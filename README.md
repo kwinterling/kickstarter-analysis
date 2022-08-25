@@ -10,3 +10,7 @@ Analyze trends in Kickstarter data using descriptive statistics.
 - The lower 25% of musicals in Great Britain got no funding.
 - Failed projects have higher funding goals.
 - No successful fiction or art books.
+
+## Plots
+
+### Musicals in Great Britain

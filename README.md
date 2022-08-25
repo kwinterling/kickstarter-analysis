@@ -13,4 +13,14 @@ Analyze trends in Kickstarter data using descriptive statistics.
 
 ## Plots
 
+### Subcategory Statistics
+
+![Subcategory Statistics](subcats.png)
+
+### Outcomes Based on Launch Date
+
+![Outcomes Based on Launch Date](outcomesld.png)
+
 ### Musicals in Great Britain
+
+![Musicals in Great Britain](musicals.png)
